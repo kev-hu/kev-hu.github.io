@@ -1,0 +1,3 @@
+title: Kevin Hu
+permalink: /:title/
+exclude: [README.md]

@@ -1,3 +1,0 @@
-# Kevin Hu
-
-Writing soon.
